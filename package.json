@@ -1,0 +1,22 @@
+{
+  "name": "Cordova-CallLog-Plugin",
+  "version": "1.0.0",
+  "description": "Cordova Call Log Plugin",
+  "cordova": {
+    "id": "Cordova-CallLog-Plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kl2karpenko/Cordova-CallLog-Plugin"
+  },
+  "keywords": [
+    "cordova",
+    "callog"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
